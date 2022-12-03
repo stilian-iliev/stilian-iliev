@@ -1,7 +1,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=stilian-iliev&&style=flat-square)
 <h1 align="center">Hi there 👋</h1>
 
-- 🔭 I’m currently looking for new opportunities
+<!-- - 🔭 I’m currently looking for new opportunities -->
 - 🌱 I’m currently learning **C++**
 - 📫 How to reach me: **siliev333@gmail.com**
 
