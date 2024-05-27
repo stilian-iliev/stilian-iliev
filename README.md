@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <!-- - 🔭 I’m currently looking for new opportunities -->
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **libGDX**
 - 📫 How to reach me: **siliev333@gmail.com**
 
 
